@@ -31,7 +31,7 @@ const About: React.FC = () => {
           About me
         </div>
         <p className="text-xl text-justify text-[color:var(--blue)]">
-          Hello! I’m <strong> MUZAMMIL AHMAD KARIMI</strong>, a passionate
+          Hello! I’m <strong> Yathartha</strong>, a passionate
           Computer Science student with a penchant for problem-solving and
           innovation. My journey in the world of code began with simple “Hello,
           World!” programs, and since then, I’ve been on an exciting quest to
